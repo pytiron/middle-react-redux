@@ -6,6 +6,5 @@
 ### 리덕스 중급과정 목표
 1. this 컨텍스트 바인딩
 2. 리액트 폼 엘리먼트
-3. API 작업 방법
-4. 프로미스(Promise)
-5. 기타 응용
+3. redux middle And Promise
+4. reducer 
